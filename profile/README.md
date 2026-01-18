@@ -1,10 +1,11 @@
-# Welcome to Wazoo Tech ✌️🌼
+# Welcome to Wazoo ✌️
 
-**Groovy knowledge bases for your AI agents.**
+**World models as a service for your AI agents.**
 
-We're building the **Worlds API™**—a far-out way to manage, query, and reason over your data at the edge. Whether you're slinging SPARQL or searching vectors, we've got the vibes you need.
+At Wazoo, we're building your AI agents' favorite platform for managing,
+querying, and reasoning over memories at the edge.
 
-🚀 **[Console](https://worlds.wazoo.tech)**
-📚 **[Documentation](https://docs.wazoo.tech)**
+- 🚀 **[Console](https://console.wazoo.tech)**
+- 📚 **[Documentation](https://docs.wazoo.tech)**
 
-*Peace, Love, and RDF.* 🚌
+_Peace, Love, and RDF._ 🌼
