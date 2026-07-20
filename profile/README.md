@@ -14,10 +14,10 @@ World models as a service for AI agents.
 
 | Repo | Package | Description |
 |------|---------|-------------|
-| [wazoo-client-ts](https://github.com/wazootech/wazoo-client-ts) | `@wazoo/client` | Generated management-plane TypeScript SDK |
-| [worlds-client-ts](https://github.com/wazootech/worlds-client-ts) | `@worlds/client` | Worlds data-plane TypeScript SDK |
-| [worlds-libsql](https://github.com/wazootech/worlds-libsql) | `@worlds/libsql` | libSQL storage adapter |
-| [memsdk](https://github.com/wazootech/memsdk) | `memsdk` | Portable AI memory SDK |
+| [wazoo-client-ts](https://github.com/wazootech/wazoo-client-ts) | [`@wazoo/client`](https://jsr.io/@wazoo/client) | Generated management-plane TypeScript SDK |
+| [worlds-client-ts](https://github.com/wazootech/worlds-client-ts) | [`@worlds/client`](https://jsr.io/@worlds/client) | Worlds data-plane TypeScript SDK |
+| [worlds-libsql](https://github.com/wazootech/worlds-libsql) | [`@worlds/libsql`](https://jsr.io/@worlds/libsql) | libSQL storage adapter |
+| [memsdk](https://github.com/wazootech/memsdk) | [`memsdk`](https://github.com/wazootech/memsdk) | Portable AI memory SDK |
 
 ## Tools
 
