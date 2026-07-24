@@ -31,3 +31,9 @@ World models as a service for AI agents.
 [Console](https://console.wazoo.dev) · [Documentation](https://docs.wazoo.dev) · [Wazoo.dev](https://wazoo.dev)
 
 All projects: [docs.wazoo.dev/projects](https://docs.wazoo.dev/projects)
+
+## Community
+
+[Discord](https://discord.gg/wpaavgRMAE) · [X/Twitter](https://x.com/wazootech) · [LinkedIn](https://www.linkedin.com/company/wazootech/) · [Instagram](https://www.instagram.com/wazootech/)
+
+[Request access](https://forms.gle/Se2rd3Znsr4S7Xz56) to the private beta
