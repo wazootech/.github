@@ -15,15 +15,20 @@ World models as a service for AI agents.
 | Repo | Package | Description |
 |------|---------|-------------|
 | [wazoo-client-ts](https://github.com/wazootech/wazoo-client-ts) | [`@wazoo/client`](https://jsr.io/@wazoo/client) | Generated management-plane TypeScript SDK |
-| [worlds-client-ts](https://github.com/wazootech/worlds-client-ts) | [`@worlds/client`](https://jsr.io/@worlds/client) | Worlds data-plane TypeScript SDK |
+| [worlds-client-ts](https://github.com/wazootech/worlds-client-ts) | [`@worlds/client`](https://jsr.io/@worlds/client) | Generated data-plane HTTP client |
+| [worlds-sdk-ts](https://github.com/wazootech/worlds-sdk-ts) | [`@worlds/sdk`](https://jsr.io/@worlds/sdk) | Embeddable Worlds SDK (in-process graph ops) |
 | [worlds-libsql](https://github.com/wazootech/worlds-libsql) | [`@worlds/libsql`](https://jsr.io/@worlds/libsql) | libSQL storage adapter |
+| [worlds-postgres](https://github.com/wazootech/worlds-postgres) | [`@worlds/postgres`](https://jsr.io/@worlds/postgres) | PostgreSQL storage adapter |
+| [sparql-engine](https://github.com/wazootech/sparql-engine) | [`@wazoo/sparql-engine`](https://jsr.io/@wazoo/sparql-engine) | Zero-dependency SPARQL 1.1/1.2 engine |
+| [worlds-kit](https://github.com/wazootech/worlds-kit) | [`@wazoo/worlds-kit`](https://www.npmjs.com/package/@wazoo/worlds-kit) | RDF-native React composition framework |
 | [memsdk](https://github.com/wazootech/memsdk) | [`memsdk`](https://github.com/wazootech/memsdk) | Portable AI memory SDK |
 
 ## Tools
 
 | Repo | Description |
 |------|-------------|
-| [wiki](https://github.com/wazootech/wiki) | Agent-friendly CLI with SHACL validation and SPARQL querying |
+| [wazoo-cli](https://github.com/wazootech/wazoo-cli) | Command-line client for the Wazoo platform |
+| [wiki](https://github.com/wazootech/wiki) | Verifiable, agent-friendly CLI with SHACL validation and SPARQL querying |
 | [linked-markdown](https://github.com/wazootech/linked-markdown) | Protocol for linked data through Markdown documents |
 
 ## Websites
