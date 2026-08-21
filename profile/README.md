@@ -213,7 +213,7 @@ Protocol and spec for linked data through Markdown documents
 </td>
 <td>
 
-<b>[commentsh](https://github.com/wazootech/commentsh)</b><br>
+<b>[commentsh](https://github.com/EthanThatOneKid/commentsh)</b><br>
 Comment Shell — run shell commands from inside code comments
 
 </td>
