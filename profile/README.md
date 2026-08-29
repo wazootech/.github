@@ -245,7 +245,7 @@ AI-powered software delivery: planning, implementation, verification, and PR han
 <tr>
 <td>
 
-<b>[wazoopedia](https://github.com/wazootech/wazoopedia)</b><br>
+<b>[memory](https://github.com/wazootech/memory)</b><br>
 Semantic company brain — version-controlled wiki for strategy and operations
 
 </td>
