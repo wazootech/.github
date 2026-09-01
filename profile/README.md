@@ -252,7 +252,7 @@ Semantic company brain — version-controlled wiki for strategy and operations
 <td>
 
 <b>[worlds-vps](https://github.com/wazootech/worlds-vps)</b><br>
-Terraform and Docker Compose for VPS deployment
+VPS deployment (dormant — Docker story moved to wazoo-docker)
 
 </td>
 </tr>
@@ -267,6 +267,19 @@ Archived: platform smoke QA moved to wazoo-api
 
 <b>[memsdk-e2e](https://github.com/wazootech/memsdk-e2e)</b><br>
 E2E compatibility tests for the memsdk ecosystem
+
+</td>
+</tr>
+<tr>
+<td>
+
+<b>[wazoo-docker](https://github.com/wazootech/wazoo-docker)</b><br>
+Official Docker story: local dev stacks and SDK backend images
+
+</td>
+<td>
+
+&nbsp;
 
 </td>
 </tr>
