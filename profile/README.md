@@ -259,8 +259,8 @@ Terraform and Docker Compose for VPS deployment
 <tr>
 <td>
 
-<b>[wazoo-e2e](https://github.com/wazootech/wazoo-e2e)</b><br>
-Reusable E2E integration and smoke test flows for the platform
+<b>[wazoo-e2e (archived)](https://github.com/wazootech/wazoo-e2e)</b><br>
+Archived: platform smoke QA moved to wazoo-api
 
 </td>
 <td>
