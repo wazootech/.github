@@ -230,12 +230,6 @@ Comment Shell — run shell commands from inside code comments
 Agent skills for coding agents (Claude Code, Cursor, OpenCode, Gemini)
 
 </td>
-<td>
-
-<b>[wazoo-factory](https://github.com/wazootech/wazoo-factory)</b><br>
-AI-powered software delivery: planning, implementation, verification, and PR handoff
-
-</td>
 </tr>
 </table>
 
