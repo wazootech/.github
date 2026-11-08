@@ -26,12 +26,6 @@ Data plane: search, SPARQL, import, export
 Management-plane UI (private beta)
 
 </td>
-<td>
-
-<b>[wazoo-desktop](https://github.com/wazootech/wazoo-desktop)</b><br>
-Native desktop app (early stage)
-
-</td>
 </tr>
 </table>
 
