@@ -1,6 +1,12 @@
-# Wazoo
+<p align="center">
+  <a href="https://docs.wazoo.dev">
+    <img src="https://wazoo.dev/assets/wazoo.svg" alt="Wazoo" width="120" />
+  </a>
+  <br /><br />
+  <em>World models as a service for AI agents.</em>
+</p>
 
-World models as a service for AI agents.
+# Wazoo
 
 ## Platform
 
