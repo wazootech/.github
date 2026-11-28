@@ -1,10 +1,23 @@
 ## Summary
 
-<!-- One or two sentences: what this changes and why. -->
+<!-- Plain language: the problem, what happens now, and why this approach.
+"Fixes #123" if there is one. -->
 
-## Changes
+**Merging this:** <!-- deploys to prod / publishes a package / neither -->
 
--
+## Before / After
+
+**Before:**
+
+**After:** <!-- include what deliberately stayed the same -->
+
+## Proof
+
+<!-- Commands and results on head <sha>. Screenshots for UI changes. -->
+
+## Risk and rollback
+
+<!-- What could break, for whom, and how to back it out. -->
 
 ## Downstream dependents & merge order
 
@@ -12,13 +25,9 @@
 route contract, or a shared identifier. List each dependent repo and the order
 to merge in. Otherwise write "None". -->
 
-## What I could not observe
+## Not verified
 
-<!-- e.g. deployed behavior. Name the gate that would catch it and why it was
-unavailable. -->
+<!-- What you could not observe, e.g. deployed behavior. Name the gate that
+would catch it and why it was unavailable. Otherwise write "None". -->
 
-## Checklist
-
-- [ ] docs/CHANGELOG updated if behavior changed
-- [ ] fmt/lint/typecheck pass locally
-- [ ] PR under ~400 changed lines, or explains why
+<!-- If over ~400 changed lines, say why. Note any docs or CHANGELOG update. -->
