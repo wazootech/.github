@@ -1,8 +1,9 @@
 ## Summary
 
 <!-- The shortest text that gets a reviewer up to speed: the problem and what
-happens now. Write or edit this yourself if you can. Add "Fixes #123" if there
-is one, and a screenshot for UI changes. -->
+happens now. Write or edit this yourself if you can. If an agent wrote it and
+you have not edited it, say so here. Add "Fixes #123" if there is one, and a
+screenshot for UI changes. -->
 
 **Merging this:** <!-- deploys to prod / publishes a package / neither -->
 
@@ -30,7 +31,9 @@ would catch it and why it was unavailable. Otherwise write "None". -->
 
 ## Proof
 
-<!-- Commands and results on head <sha>. -->
+<!-- Run the changed behavior itself, not only the tests, and paste the real
+output with the commands and head <sha>. Name a test that fails without this
+change, or say why there is none. -->
 
 <!-- If over ~400 changed lines, say why. Note any docs or CHANGELOG update. -->
 
